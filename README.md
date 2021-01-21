@@ -1,4 +1,8 @@
-# Leonids Gatsby starter
+# Code-Bites Blog
+Learning publicly by posting and regurgitating my learnings on this blog powered by Gatsby and designed by Leonids. 
+
+---------------------------------------------------------------------------------------------------------------
+## Leonids Gatsby starter
 
 **[Leonids](http://renyuanz.github.io/leonids)** is a clean, fixed sidebar Gatsby starter which is perfect for powering your GitHub hosted blog.
 

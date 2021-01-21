@@ -11,7 +11,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-        Leonids theme
+        Leonids theme (thanks Leonids!)
       </a>
       .
     </footer>
