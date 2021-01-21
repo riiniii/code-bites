@@ -1,5 +1,6 @@
 ---
-title: Redux vs React Context
+title: "Redux vs React Context"
+date: "2020-12-27T07:26:03.284Z"
 description: "A code-bite on Redux vs React Context."
 categories: [javascript, react]
 comments: false

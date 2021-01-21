@@ -1,6 +1,7 @@
 module.exports = {
-  pathPrefix: "/leonids",
+  pathPrefix: "/code-bites",
   siteMetadata: {
+    siteUrl: "http://riiniii.github.io/code-bites",
     title: `Renee Huang`,
     author: {
       name: `@reneehuang23`,

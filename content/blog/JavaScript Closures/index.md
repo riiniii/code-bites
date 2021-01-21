@@ -1,6 +1,7 @@
 ---
 title: 'JavaScript Closures'
-description: "A code-bite on closures in JavaScript."
+date: "2020-12-20T07:26:03.284Z"
+description: "A code bite on JavaScript Closures."
 categories: [javascript]
 comments: true
 ---
