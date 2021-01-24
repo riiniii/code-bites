@@ -95,6 +95,7 @@ const Layout = ({ location, title, children }) => {
           style={{ minHeight: 200 }}
         >
           {header}
+          Learning Publicly, A Code Bite At A Time
         </div>
       </div>
 

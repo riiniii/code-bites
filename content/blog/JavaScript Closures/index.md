@@ -5,7 +5,6 @@ description: "A code bite on JavaScript Closures."
 categories: [javascript]
 comments: true
 ---
-# JavaScript Closures
 
 Even though JavaScript engines compile and interpret JavaScript code, JavaScript is still considered to be a **compiled** **language**. Why does this matter? 
 

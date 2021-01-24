@@ -5,7 +5,7 @@ module.exports = {
     title: `Renee Huang`,
     author: {
       name: `@reneehuang23`,
-      summary: `software engineer`,
+      summary: `, a software engineer regurgitating what I learn`,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
     social: {
